@@ -7,11 +7,11 @@ import {
   grid,
   nav,
   listItem,
-  logo,
+  // logo,
   content,
 } from './Footer.module.scss';
 
-const Footer = ({ Content, links, Logo }) => {
+const Footer = ({ Content, links }) => {
   const { firstCol, secondCol } = links;
   const { site } = useStaticQuery(graphql`
     query BUILD_TIME_QUERY {
@@ -60,7 +60,7 @@ const Footer = ({ Content, links, Logo }) => {
         </Row>
         <Row>
           <Column colLg={3}>
-            <Logo />
+
           </Column>
         </Row>
       </Grid>
@@ -134,7 +134,7 @@ Footer.propTypes = {
   /**
    * Provide a logo to be rendered in the bottom left corner
    */
-  Logo: PropTypes.elementType,
+
 };
 
 export default Footer;

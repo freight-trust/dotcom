@@ -77,7 +77,7 @@ const Header = ({ children }) => {
 
 const DefaultHeaderText = () => (
   <>
-    Carbon&nbsp;<span>Design System</span>
+    Freight Trust<span>& Clearing</span>
   </>
 );
 

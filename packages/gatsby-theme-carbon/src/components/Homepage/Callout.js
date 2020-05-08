@@ -34,18 +34,17 @@ HomepageCallout.defaultProps = {
   leftText: function renderLeftText() {
     return (
       <>
-        Think → <strong>Guide</strong>
+        Market→ <strong>Guide</strong>
       </>
     );
   },
   rightText: function renderRightText() {
     return (
       <p>
-        <strong>Build Bonds.</strong>
+        <strong>Bridging Worlds</strong>
         <br />
-        This is the guiding ethos behind IBM’s design philosophy and principles.
-        This helps us distinguish every element and every experience Designed by
-        IBM.
+        Dstinguish every element and every experience to further our clients goals.
+        Trust.
       </p>
     );
   },
