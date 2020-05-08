@@ -1,0 +1,50 @@
+- title: ShipperEDI
+  pages:
+    - path: /getting-started
+- title: CarrierEDI
+  pages:
+    - path: /demo
+- title: Trade Finance
+  pages:
+    - path: /gallery
+- title: Corporate
+  pages:
+    - path: /contributions
+- title: Industry
+  pages:
+    - title: Trucking
+      path: /guides/configuration
+    - title: Ocean
+      path: /guides/MDX
+    - title: Intermodal
+      path: /guides/shadowing
+    - title: Customs
+      path: /guides/styling
+    - title: Haz. Mat
+      path: /guides/navigation/sidebar
+    - title: Other
+      path: /guides/npm-scripts
+- title: Documentation
+  pages:
+    - title: EDI
+      path: /components/Accordion
+    - title: Blockchain
+      path: /components/AnchorLinks
+    - title: Smart Contracts
+      path: /components/ArtDirection
+    - title: Vendors
+      path: /components/ArticleCard
+    - title: Integrations
+      path: /components/Aside
+    - title: Features
+      path: /components/Caption
+    - title: Code blocks
+      path: /components/code-blocks
+    - title: DoDontExample
+      path: /components/DoDontExample
+    - title: DoDontRow
+      path: /components/DoDontRow
+    - title: FeatureCard
+      path: /components/FeatureCard
+    - title: FeedbackDialog
+      path: /components/FeedbackDialog
